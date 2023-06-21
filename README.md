@@ -2,6 +2,7 @@
 - 👀 I’m interested in solving real world complex problems
 - 🌱 I’m currently doing B.E Computer Science and Engineering with Specialization in Artificial Intelligence and Machine Learning 
 - 📫 Reach me on suriyaselvam139@gmail.com and www.linkedin.com/in/suriya-s-cse422003
+- 😎 Certified as Red Hat® Certified System Administrator (RHCSA®)
 
 <!---
 Suriya423/Suriya423 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
